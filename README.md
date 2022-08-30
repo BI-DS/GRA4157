@@ -33,6 +33,6 @@ We will use three books for references: https://rl.talis.com/3/binorway/lists/76
 # Preliminary lecture plan
 | Date  | Topic | Exercises |
 | ------------- | ------------- | ------------- |
-| Sep. 2  | Python recap, lists and dictionaries  | 2.34 |
+| Sep. 2  | Python recap, lists and dictionaries, testing  | Intro: 2.15, 2.18, 3.3, 3.6, 3.17 |
 | Sep. 9  | Content Cell  | 2.54 |
 
