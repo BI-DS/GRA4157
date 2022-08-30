@@ -21,7 +21,7 @@ Working with the pandas library
 Data visualisation
 
 Part 3:
-Cleaning data, combining data sets
+Cleaning data, combining data sets \n
 Machine learning workflows with scikit learn
 Assess machine learning models based on various assumptions on data (outliers etc)
 
