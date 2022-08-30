@@ -23,5 +23,9 @@ Data visualisation
 Part 3:  
 Cleaning data, combining data sets  
 Machine learning workflows with scikit learn  
-Assess machine learning models based on various assumptions on data (outliers etc)
+Assess machine learning models based on various assumptions on data (outliers etc)  
+
+
+# Written material 
+We will use three books for references: https://rl.talis.com/3/binorway/lists/76C6E5C4-F0D7-76B8-78B3-266D02955988.html
 
