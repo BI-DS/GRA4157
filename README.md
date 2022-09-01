@@ -12,8 +12,9 @@ Final exam assignment (70%), report based on two group presentations (1 - 3 per 
 # Topics
 Part 1:   
 Basic Python lists, dictionaries and operations.   
-Numerical python with numpy, arrays, array slicing for vectorized computations.   
 Reading from and writing to files, flexible solutions.  
+Numerical python with numpy, arrays, array slicing for vectorized computations.   
+
 
 Part 2:   
 Reading data from websites  
@@ -31,8 +32,9 @@ We will use three books for references: https://rl.talis.com/3/binorway/lists/76
 
 
 # Preliminary lecture plan
-| Date  | Topic | Exercises |
-| ------------- | ------------- | ------------- |
-| Sep. 2  | Python recap, lists and dictionaries, testing  | Intro: 2.15, 2.18, 3.3, 3.6, 3.17 |
-| Sep. 9  | Content Cell  | 2.54 |
+| Date  | Topic | Reading | Exercises |
+| ------------- | ------------- | ------------- | ------------- |
+| Sep. 2  | Python recap, lists and dictionaries, testing  | Sundnes: Chap 1,2,3 | Sundnes: 2.7, 2.15, 2.18, 3.3, 3.6, 3.17 |
+| Sep. 2  | Reading and writing to file. User input. Exceptions. Command line arguments  | Sundnes: Chap 5 | Sundnes: 4.4, 4.9, 4.10, 4.12, 4.13, 4.17, 4.23 |
+| Sep. 9  | Numerical Python  | Sundnes: Chap 6 | | 
 
