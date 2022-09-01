@@ -7,8 +7,24 @@ def is_even(x):
     else:
         return False
         
-        
-@pytest.mark.parametrize("x, expected", [(1,False),(2,True),(3, False),(5, False),(8, True)])
 
-def test_is_even(x, expected):
-    assert is_even(x) == expected
+
+def test_is_even():
+    assert is_even(2) == True
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+#@pytest.mark.parametrize("x, expected", [(1,False),(2,True),(3, False),(5, False),(8, True)])
