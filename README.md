@@ -2,7 +2,7 @@
 Course material for  GRA 4157 - (Big) Data Curation, Pipelines, and Management.
 
 # Lectures
-Lectures will be held each Friday 12-13:45 between September 2nd to November 18th.  
+Lectures will be held each Friday 12-13:45 between September 2nd and November 18th.  
 I have office hours at BI every Friday 09:00 - 16:00 at office A4i - 070. Outside these hours you may contact me at vegard@simula.no or vegard.vinje@bi.no. 
 
 # Exams
