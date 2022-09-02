@@ -33,6 +33,7 @@ We will use three books for references: https://rl.talis.com/3/binorway/lists/76
 
 
 # Preliminary lecture plan
+For a given lecture, the reading gives an approximate overview of what is expected to be known after the lecture. I expect you to solve the exercises after the lecture. Each week, we start the lecture with a student presentation of a exercise of choice. Send an email to vegard.vinje@bi.no to volunteer for an exercise.
 | Date  | Topic | Reading | Exercises | Student presentation |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Sep. 2  | Course Introduction. Python recap, lists and dictionaries. Testing  | Sundnes: Chap 1,2,3 | Sundnes: 2.7, 2.8, 2.9, 2.15, 2.18, 3.3, 3.6, 3.17 ++ | |
