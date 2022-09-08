@@ -1,6 +1,5 @@
 altair==4.2.0
 anyio==3.6.1
-apturl==0.5.2
 argcomplete==2.0.0
 argon2-cffi==21.3.0
 argon2-cffi-bindings==21.2.0
