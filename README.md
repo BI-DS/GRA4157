@@ -37,7 +37,7 @@ Link to notebooks: https://mybinder.org/v2/gh/BI-DS/GRA4157/vegarvi-patch-1
 For a given lecture, the reading gives an approximate overview of what is expected to be known after the lecture. I expect you to solve the exercises after the lecture. Each week, we start the lecture with a student presentation of a exercise of choice. Send an email to vegard.vinje@bi.no to volunteer for an exercise.
 | Date  | Topic | Reading | Exercises | Student presentation |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Sep. 2  | Course Introduction. Python recap, lists and dictionaries. Testing.  | Sundnes: Chap 1,2,3 | Sundnes: 2.7, 2.8, 2.9, 2.15, 2.18, 3.3, 3.6, 3.17 ++ | |
+| Sep. 2  | Course Introduction. Python recap, lists and dictionaries. Testing.  | Sundnes: Chap 1,2,3 (and 7) | Sundnes: 2.7, 2.8, 2.9, 2.15, 2.18, 3.3, 3.6, 3.17 | |
 | Sep. 9  | Reading and writing to file. User input. Exceptions. More on command line arguments  | Sundnes: Chap 5 | Sundnes: 4.4, 4.9, 4.10, 4.12, 4.13, 4.17, 4.23 | Augusta (notebook exercise) |
-| Sep. 16  | Numerical Python  | Sundnes: Chap 6 |  | Anders | 
+| Sep. 16  | Numerical Python and plotting  | Sundnes: Chap 6 | 5.1, 5.2, 5.3, 5.4, 5.10, 5.12, 5.14, 5.28, 5.46, 5.54    | Anders | 
 | Sep. 23  | | |  | Peter | 
