@@ -29,7 +29,8 @@ Assess machine learning models based on various assumptions on data (outliers et
 
 
 # Written material 
-We will use three books for references: https://rl.talis.com/3/binorway/lists/76C6E5C4-F0D7-76B8-78B3-266D02955988.html
+We will use three books for references: https://rl.talis.com/3/binorway/lists/76C6E5C4-F0D7-76B8-78B3-266D02955988.html  
+Link to notebooks: https://mybinder.org/v2/gh/BI-DS/GRA4157/vegarvi-patch-1
 
 
 # Preliminary lecture plan
