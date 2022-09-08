@@ -1,6 +1,9 @@
 # GRA4157
 Course material for  GRA 4157 - (Big) Data Curation, Pipelines, and Management.
 
+# Mandatory assignment 1
+For the mandatory assignment you will need to submit 6 exercises from the weekly exercises: You choose 3 of the following exercises: 4.4, 4.9, 4.10, 4.12, 4.13, 4.17, 4.23 and 3 of the following: 5.1, 5.2, 5.3, 5.4, 5.10, 5.12, 5.14, 5.28, 5.46, 5.54. Each exercise should have its own .py file, and all 6 files should be uploaded to Mandatory assignment 1 at itslearning. Additional data files needed to run the programs should also be uploaded. Deadline: September 30. No grading, only approved/not approved. 
+
 # Lectures
 Lectures will be held each Friday 12-13:45 between September 2nd and November 18th.  
 I have office hours at BI every Friday 09:00 - 16:00 at office A4i - 070. Outside these hours you may contact me at vegard@simula.no or vegard.vinje@bi.no. 
