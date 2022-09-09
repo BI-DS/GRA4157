@@ -1,2 +1,11 @@
-The previous line is deleted and this is the new lineThe line above is still there, and this line was just appendedNow let's add a new line:
-This is the new line
+x sqrt(x)
+1 1
+2 1
+3 2
+4 2
+5 2
+6 2
+7 3
+8 3
+9 3
+10 3
