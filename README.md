@@ -6,7 +6,7 @@ For the mandatory assignment you will need to submit 6 exercises from the weekly
 
 # Lectures
 Lectures will be held each Friday 12-13:45 between September 2nd and November 18th.  
-I have office hours at BI every Friday 09:00 - 16:00 at office A4i - 070. Outside these hours you may contact me at vegard@simula.no or vegard.vinje@bi.no. 
+I have office hours at BI every Friday 09:00 - 16:00 at office B3 - 054 in the Data Science Department. Outside these hours you may contact me at vegard@simula.no or vegard.vinje@bi.no. 
 
 # Exams
 Mid term-exam (30%) Friday October 14th 14:00 - 16:00. Technical knowledge, concepts from programming with data
