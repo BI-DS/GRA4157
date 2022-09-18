@@ -44,3 +44,4 @@ For a given lecture, the reading gives an approximate overview of what is expect
 | Sep. 9  | Reading and writing to file. User input. Exceptions. More on command line arguments  | Sundnes: Chap 5 | Sundnes: 4.4, 4.9, 4.10, 4.12, 4.13, 4.17, 4.23 | Augusta (notebook exercise) |
 | Sep. 16  | Numerical Python and plotting  | Sundnes: Chap 6 | Sundnes: 5.1, 5.2, 5.3, 5.4, 5.10, 5.12, 5.14, 5.28, 5.46, 5.54    | Anders | 
 | Sep. 23  | Pandas | McKinney: Chap 5 | W3: DataFrames: 2.-22., 73  | Peter | 
+| Sep. 30 | Pandas++ | KcKinney: -- | | Ulrik |
