@@ -46,3 +46,4 @@ For a given lecture, the reading gives an approximate overview of what is expect
 | Sep. 23  | Pandas | McKinney: Chap 5 | W3: DataFrames: 2.-22., 73  | Peter | 
 | Sep. 30 | File formats and web scraping | KcKinney: Chap 6 | | Ulrik |
 | Oct. 12 | Q & A Mid-term | | | 
+| Oct. 14 | Mid-term | | |
