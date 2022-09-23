@@ -45,3 +45,4 @@ For a given lecture, the reading gives an approximate overview of what is expect
 | Sep. 16  | Numerical Python and plotting  | Sundnes: Chap 6 | Sundnes: 5.1, 5.2, 5.3, 5.4, 5.10, 5.12, 5.14, 5.28, 5.46, 5.54    | Anders | 
 | Sep. 23  | Pandas | McKinney: Chap 5 | W3: DataFrames: 2.-22., 73  | Peter | 
 | Sep. 30 | File formats and web scraping | KcKinney: Chap 6 | | Ulrik |
+| Oct. 12 | Q & A Mid-term | | | 
