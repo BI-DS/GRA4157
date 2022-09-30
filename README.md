@@ -46,6 +46,6 @@ For a given lecture, the reading gives an approximate overview of what is expect
 | Sep. 23  | Pandas | McKinney: Chap 5 | W3: DataFrames: 2.-22., 73  | Peter | 
 | Sep. 30 | File formats and web scraping | KcKinney: Chap 6 | [Exercise](https://github.com/BI-DS/GRA4157/blob/main/mid-term-exercise/Exercise_project.pdf) | Ulrik |
 | Oct. 7 | Guest lecture Bearingpoint | Marius Reed and Christian Svalesen | |
-| Oct. 12 | Q & A Mid-term | | | 
+| Oct. 12 | Q & A Mid-term 10 - 12 | | | 
 | Oct. 14 | Mid-term | | |
 | Oct. 21 | | | | Oleksandra |
