@@ -9,7 +9,7 @@ Lectures will be held each Friday 12-13:45 between September 2nd and November 18
 I have office hours at BI every Friday 09:00 - 16:00 at office B3 - 054 in the Data Science Department. Outside these hours you may contact me at vegard@simula.no or vegard.vinje@bi.no. 
 
 # Exams
-Mid term-exam (30%) Friday October 14th 14:00 - 16:00. Technical knowledge, concepts from programming with data
+Mid term-exam (30%) Thursday October 13th 14:00 - 16:00. Technical knowledge, concepts from programming with data
 
 Final exam assignment (70%), report based on two group presentations (1 - 3 per group) throughout the semester.
 
