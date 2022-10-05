@@ -47,5 +47,5 @@ For a given lecture, the reading gives an approximate overview of what is expect
 | Sep. 30 | File formats and web scraping | KcKinney: Chap 6 | [Exercise](https://github.com/BI-DS/GRA4157/blob/main/mid-term-exercise/Exercise_project.pdf). Also mandatory assignment deadline | Ulrik |
 | Oct. 7 | Guest lecture Bearingpoint | Marius Reed and Christian Svalesen | |
 | Oct. 12 | Q & A Mid-term 10 - 12 | | | 
-| Oct. 14 | Mid-term | | |
+| Oct. 13 | Mid-term | | |
 | Oct. 21 | | | | Oleksandra |
