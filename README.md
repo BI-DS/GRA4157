@@ -51,4 +51,4 @@ For a given lecture, the reading gives an approximate overview of what is expect
 | Oct. 7 | Guest lecture Bearingpoint | Marius Reed and Christian Svalesen | |
 | Oct. 12 | Q & A Mid-term 10 - 12 | | | 
 | Oct. 13 | Mid-term | | |
-| Oct. 21 | | | | Oleksandra |
+| Oct. 21 | Map visualization | Project 1 |  | Oleksandra |
