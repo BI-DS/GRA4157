@@ -52,7 +52,7 @@ For a given lecture, the reading gives an approximate overview of what is expect
 | Oct. 12 | Q & A Mid-term 10 - 12 | | | 
 | Oct. 13 | Mid-term | | |
 | Oct. 21 | Map visualization | Project 1 | [Project text](https://github.com/BI-DS/GRA4157/blob/main/lectures/06-visualization-project/GroupProject.pdf) | Oleksandra |
-| Oct. 28 | Group presentations | | |
+| Oct. 28 | Group presentations | Intro to machine learning | |
 | Nov. 4 | Machine learning | Project 2 | |
 | Nov. 11| Group presentations | | | 
 | Nov. 18 | Final lecture | Exam/assignment information | | 
