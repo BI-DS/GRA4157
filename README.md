@@ -1,6 +1,9 @@
 # GRA4157
 Course material for  GRA 4157 - (Big) Data Curation, Pipelines, and Management.
 
+# Machine learning resources
+For an introduction to machine learning I recommend the scikit-learn [tutorial](https://scikit-learn.org/stable/tutorial/basic/tutorial.html). I have uploaded notebooks in the folder 07-scikit-learn, which are in part based on the scikit-learn tutorial. I will spend 30 minutes of the next class to lecture machine learning, and you get the rest of the time to work on projects. The ML project is posted in the scikit-learn folder and also linked in the lecture plan below. 
+
 # Mid-term solution
 I have uploaded a suggested solution to the mid-term under GRA4157/mid-term-solution, [here](https://github.com/BI-DS/GRA4157/blob/main/mid-term-solution/gra-mid-term.py). If you have questions, comments or complaints feel free to contact me. 
 
@@ -53,6 +56,6 @@ For a given lecture, the reading gives an approximate overview of what is expect
 | Oct. 13 | Mid-term | | |
 | Oct. 21 | Map visualization | Project 1 | [Project text](https://github.com/BI-DS/GRA4157/blob/main/lectures/06-visualization-project/GroupProject.pdf) | Oleksandra |
 | Oct. 28 | Group presentations and intro to machine learning | | |
-| Nov. 4 | Machine learning | Project 2 | |
+| Nov. 4 | Machine learning | Project 2 | [Project text](https://github.com/BI-DS/GRA4157/blob/main/lectures/07-scikit-learn/GroupProjectML.pdf) |
 | Nov. 11| Group presentations | | | 
 | Nov. 18 | Final lecture | Exam/assignment information | | 
