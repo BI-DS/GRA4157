@@ -6,7 +6,7 @@ Course material for  GRA 4157 - (Big) Data Curation, Pipelines, and Management.
 # Exams
 Mid term-exam (30%) Thursday October 13th 14:00 - 16:00. Technical knowledge, concepts from programming with data
 
-Final exam assignment (70%), report based on two group presentations (1 - 3 per group) throughout the semester.
+The final exam assignment (70%), is based on the two group presentations (1 - 3 per group) during the semester. You should write a data science report about a topic of choise. A more precise text on the expectations has been [published](https://github.com/BI-DS/GRA4157/blob/main/exam/GRA4157-final-report.pdf). The deadline is Friday December 9. 12:00 (noon). 
 
 # Machine learning resources
 For an introduction to machine learning I recommend the scikit-learn [tutorial](https://scikit-learn.org/stable/tutorial/basic/tutorial.html). I have uploaded notebooks in the folder 07-scikit-learn, which are in part based on the scikit-learn tutorial. I will spend 30 minutes of the next class to lecture machine learning, and you get the rest of the time to work on projects. The ML project is posted in the scikit-learn folder and also linked in the lecture plan below. 
@@ -55,4 +55,4 @@ For a given lecture, the reading gives an approximate overview of what is expect
 | Oct. 28 | Group presentations and intro to machine learning | | |
 | Nov. 4 | Machine learning | Project 2 | [Project text](https://github.com/BI-DS/GRA4157/blob/main/lectures/07-scikit-learn/GroupProjectML.pdf) |
 | Nov. 11| Group presentations | | | 
-| Nov. 18 | Final lecture | Exam/assignment information | | 
+| Nov. 18 | Final lecture | Exam/assignment information | [Exam text](https://github.com/BI-DS/GRA4157/blob/main/exam/GRA4157-final-report.pdf) | 
