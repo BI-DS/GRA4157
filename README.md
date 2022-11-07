@@ -1,23 +1,20 @@
 # GRA4157
 Course material for  GRA 4157 - (Big) Data Curation, Pipelines, and Management.
 
-# Machine learning resources
-For an introduction to machine learning I recommend the scikit-learn [tutorial](https://scikit-learn.org/stable/tutorial/basic/tutorial.html). I have uploaded notebooks in the folder 07-scikit-learn, which are in part based on the scikit-learn tutorial. I will spend 30 minutes of the next class to lecture machine learning, and you get the rest of the time to work on projects. The ML project is posted in the scikit-learn folder and also linked in the lecture plan below. 
 
-# Mid-term solution
-I have uploaded a suggested solution to the mid-term under GRA4157/mid-term-solution, [here](https://github.com/BI-DS/GRA4157/blob/main/mid-term-solution/gra-mid-term.py). If you have questions, comments or complaints feel free to contact me. 
-
-# Mandatory assignment 1
-For the mandatory assignment you will need to submit 6 exercises from the weekly exercises: You choose 3 of the following exercises: 4.4, 4.9, 4.10, 4.12, 4.13, 4.17, 4.23 and 3 of the following: 5.1, 5.2, 5.3, 5.4, 5.10, 5.12, 5.14, 5.28, 5.46, 5.54. Each exercise should have its own .py file, and all 6 files should be uploaded to Mandatory assignment 1 at itslearning. Additional data files needed to run the programs should also be uploaded. Deadline: September 30. No grading, only approved/not approved. 
-
-# Lectures
-Lectures will be held each Friday 12-13:45 between September 2nd and November 18th.  
-I have office hours at BI every Friday 09:00 - 16:00 at office B3 - 054 in the Data Science Department. Outside these hours you may contact me at vegard@simula.no or vegard.vinje@bi.no. 
 
 # Exams
 Mid term-exam (30%) Thursday October 13th 14:00 - 16:00. Technical knowledge, concepts from programming with data
 
 Final exam assignment (70%), report based on two group presentations (1 - 3 per group) throughout the semester.
+
+# Machine learning resources
+For an introduction to machine learning I recommend the scikit-learn [tutorial](https://scikit-learn.org/stable/tutorial/basic/tutorial.html). I have uploaded notebooks in the folder 07-scikit-learn, which are in part based on the scikit-learn tutorial. I will spend 30 minutes of the next class to lecture machine learning, and you get the rest of the time to work on projects. The ML project is posted in the scikit-learn folder and also linked in the lecture plan below. 
+
+# Lectures
+Lectures will be held each Friday 12-13:45 between September 2nd and November 18th.  
+I have office hours at BI every Friday 09:00 - 16:00 at office B3 - 054 in the Data Science Department. Outside these hours you may contact me at vegard@simula.no or vegard.vinje@bi.no. 
+
 
 # Topics
 Part 1:   
