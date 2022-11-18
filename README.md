@@ -1,12 +1,58 @@
 # GRA4157
 Course material for  GRA 4157 - (Big) Data Curation, Pipelines, and Management.
 
-
-
 # Exams
 Mid term-exam (30%) Thursday October 13th 14:00 - 16:00. Technical knowledge, concepts from programming with data
 
 The final exam assignment (70%), is based on the two group presentations (1 - 3 per group) during the semester. You should write a data science report about a topic of choise. A more precise text on the expectations has been [published](https://github.com/BI-DS/GRA4157/blob/main/exam/GRA4157-final-report.pdf). The deadline is Friday December 9. 12:00 (noon). 
+
+# Guest lecture resources
+Hei Vegard,
+
+forsinket mail her, men veldig hyggelig å holde forelesning for studentene sammen med Christian fredag 7. oktober! Flinke og engasjerte studenter med reflekterte tanker rundt et stort og viktig tema i data science-verden.
+
+
+Vi avtalte å tilgjengeliggjøre noen referanser for studentene, legger disse under her:
+
+
+Powerpoint
+ 
+
+BearingPoint sin medium-side:
+
+https://bearingpoint-analytics-ai.medium.com/
+ 
+
+Våre epost-adresser:
+
+yngve.sture@bearingpoint.com
+
+christian.svalesen@bearingpoint.com
+
+
+Noen nøkkelteknologier vi anbefalte:
+
+    Gradient boosted trees
+        XGBoost (https://xgboost.readthedocs.io/en/stable/) ,
+        LightGBM (https://lightgbm.readthedocs.io/en/v3.3.2/)
+    Google BigQuery (datavarehusteknologi med all funksjonalitet man trenger for å lagre og transformere store datamengder. Kan lagre opptil 10GB gratis.)
+    Cloud providers: AWS, Azure, Google Cloud platform
+    MLOps (vi anbefaler å bruke et av disse eller lignende verktøy for å holde styr på trening og sammenligning av ulike modeller):
+        MLflow
+        Neptune
+
+Podcasttips:
+
+    The Analytics Engineering Podcast
+    Practical AI
+
+Bøker:
+
+    The Phoenix Project - Essensielt om hvorfor DevOps er viktig, strategibok
+    Competing In The Age of AI - Grunnleggende AI-strategi fra Harvard-professorer
+    Prediction Machines - fra Professorer ved Creative Destruction Lab, Rotman School of Managements StartupHub
+    AI First Company - Hvordan bygge gode AI selskaper fra Ash Fontana, Venture Capitalist
+    Weapons of Math Destruction – Bok som peker på noen av de etiske fallgruvene man risikerer ved bruk av AI
 
 # Machine learning resources
 For an introduction to machine learning I recommend the scikit-learn [tutorial](https://scikit-learn.org/stable/tutorial/basic/tutorial.html). I have uploaded notebooks in the folder 07-scikit-learn, which are in part based on the scikit-learn tutorial. I will spend 30 minutes of the next class to lecture machine learning, and you get the rest of the time to work on projects. The ML project is posted in the scikit-learn folder and also linked in the lecture plan below. 
