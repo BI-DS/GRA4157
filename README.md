@@ -15,7 +15,7 @@ forsinket mail her, men veldig hyggelig å holde forelesning for studentene samm
 Vi avtalte å tilgjengeliggjøre noen referanser for studentene, legger disse under her:
 
 
-Powerpoint
+[Powerpoint](https://github.com/BI-DS/GRA4157/blob/main/Gjesteforelesning_BI_DataPipelines_for_ML.pdf)
  
 
 BearingPoint sin medium-side:
