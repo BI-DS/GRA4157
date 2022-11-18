@@ -102,4 +102,4 @@ For a given lecture, the reading gives an approximate overview of what is expect
 | Nov. 4 | Machine learning | Project 2 | [Project text](https://github.com/BI-DS/GRA4157/blob/main/lectures/07-scikit-learn/GroupProjectML.pdf) |
 | Nov. 11| Group presentations | | | 
 | Nov. 18 | Final lecture | Exam/assignment information | [Exam text](https://github.com/BI-DS/GRA4157/blob/main/exam/GRA4157-final-report.pdf) | 
-| Dec. 1 | Q&A | 08:00 - 08:20 Anders |time: 08 - 10 | 
+| Dec. 1 | Q&A | 08:00 - 08:20 Anders 08:20 - 08:40 Oleksandra, Tuan, Serik 08:40 - 09:00 Augusta, Sondre, Peter |time: 08 - 10 | 
