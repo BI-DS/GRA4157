@@ -10,7 +10,7 @@ Course material for GRA 4157 - (Big) Data Curation, Pipelines, and Management
 
 # Lectures
 
-Lectures will be held each Friday 12-13:45 between August 25th and November 18th. You may contact me at steven@simula.no.
+Lectures will be held each Friday 12-13:45 between August 25th and November 10th. You may contact me at steven@simula.no.
 
 # Topics
 
