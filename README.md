@@ -8,10 +8,6 @@ Course material for GRA 4157 - (Big) Data Curation, Pipelines, and Management
 
 **The final exam (60%)**, is based on the two group presentations (1 - 3 per group) during the semester. You should write a data science report about a topic of choice.
 
-# Machine learning resources
-
-For an introduction to machine learning I recommend the scikit-learn [tutorial](https://scikit-learn.org/stable/tutorial/basic/tutorial.html). I have uploaded notebooks in the folder 07-scikit-learn, which are in part based on the scikit-learn tutorial. I will spend 30 minutes of the next class to lecture machine learning, and you get the rest of the time to work on projects. The ML project is posted in the scikit-learn folder and also linked in the lecture plan below.
-
 # Lectures
 
 Lectures will be held each Friday 12-13:45 between August 25th and November 18th. You may contact me at steven@simula.no.
