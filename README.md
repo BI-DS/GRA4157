@@ -4,9 +4,9 @@ Course material for GRA 4157 - (Big) Data Curation, Pipelines, and Management
 
 # Exams
 
-**Mid-term exam (40%)** Thursday October 13th 14:00 - 16:00. Technical knowledge, concepts from programming with data
+**Mid-term exam (40%)** Technical knowledge, concepts from programming with data.
 
-**The final exam (60%)**, is based on the two group presentations (1 - 3 per group) during the semester. You should write a data science report about a topic of choise. A more precise text on the expectations has been [published](https://github.com/BI-DS/GRA4157/blob/main/exam/GRA4157-final-report.pdf). The deadline is Friday December 9. 12:00 (noon).
+**The final exam (60%)**, is based on the two group presentations (1 - 3 per group) during the semester. You should write a data science report about a topic of choice.
 
 # Machine learning resources
 
@@ -14,8 +14,7 @@ For an introduction to machine learning I recommend the scikit-learn [tutorial](
 
 # Lectures
 
-Lectures will be held each Friday 12-13:45 between August 25th and November 18th.  
-I have office hours at BI every Friday 09:00 - 16:00 at office B3 - 054 in the Data Science Department. Outside these hours you may contact me at steven@simula.no or steven.hicks@bi.no.
+Lectures will be held each Friday 12-13:45 between August 25th and November 18th. You may contact me at steven@simula.no.
 
 # Topics
 
