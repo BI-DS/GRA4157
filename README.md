@@ -6,7 +6,7 @@ Course material for GRA 4157 - (Big) Data Curation, Pipelines, and Management
 
 **Mid-term exam (40%)** Technical knowledge, concepts from programming with data.
 
-**The final exam (60%)**, is based on the two group presentations (1 - 3 per group) during the semester. You should write a data science report about a topic of choice.
+**The final exam (60%)**, is based on the two group presentations (1 - 3 per group) during the semester.
 
 # Lectures
 
