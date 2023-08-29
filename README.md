@@ -32,11 +32,6 @@ Lectures will be held each Friday 12-13:45 between August 25th and November 10th
 - Machine learning workflows with scikit learn
 - Assess machine learning models based on various assumptions on data (outliers etc)
 
-# Written material
-
-We will use three books for references: https://rl.talis.com/3/binorway/lists/76C6E5C4-F0D7-76B8-78B3-266D02955988.html  
-Link to notebooks: https://mybinder.org/v2/gh/BI-DS/GRA4157/vegarvi-patch-1
-
 # Preliminary lecture plan
 
 For a given lecture, the reading gives an approximate overview of what is expected to be known after the lecture. I expect you to solve the exercises after the lecture. Each week, we start the lecture with a student presentation of a exercise of choice. Send an email to steven.a.hicks@bi.no to volunteer for an exercise. For exercises regarding pandas we refer to the w3resource (W3) https://www.w3resource.com/python-exercises/pandas/index-dataframe.php
