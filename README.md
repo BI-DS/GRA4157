@@ -37,7 +37,7 @@ https://rl.talis.com/3/binorway/lists/B42AA3E8-0EBF-28A8-FD85-D29EA695AF92.html
 
 # Preliminary lecture plan
 
-For a given lecture, the reading gives an approximate overview of what is expected to be known after the lecture. I expect you to solve the exercises after the lecture. Each week, we start the lecture with a student presentation of a exercise of choice. Send an email to steven.a.hicks@bi.no to volunteer for an exercise. For exercises regarding pandas we refer to the w3resource (W3) https://www.w3resource.com/python-exercises/pandas/index-dataframe.php
+For a given lecture, the reading gives an approximate overview of what is expected to be known after the lecture. I expect you to solve the exercises after the lecture. Each week, we start the lecture with a student presentation of a exercise of choice. Send an email to steven@simula.no (or steven.a.hicks@bi.no) to volunteer for an exercise. For exercises regarding pandas we refer to the w3resource (W3) https://www.w3resource.com/python-exercises/pandas/index-dataframe.php
 | Date | Topic | Reading | Exercises | Student presentation |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Aug. 25 | Course Introduction. Python recap, lists and dictionaries. Testing. | Sundnes: Chap 1,2,3 (and 7) | Sundnes: 2.7, 2.8, 2.9, 2.15, 2.18, 3.3, 3.6, 3.17 | |
