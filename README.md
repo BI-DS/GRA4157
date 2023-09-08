@@ -46,8 +46,8 @@ For a given lecture, the reading gives an approximate overview of what is expect
 | Sep. 15 | Pandas | McKinney: Chap 5 | W3: DataFrames: 2.-22., 73 | |
 | Sep. 22 | File formats and web scraping | KcKinney: Chap 6 |  | |
 | Sep. 29 | Guest lecture ? | | |
-| Oct. 04 | Q & A Mid-term 12 - 14:00 | | |
-| Oct. 05 | Mid-term 09 - 11 | | |
+| Oct. 04 | Q & A Mid-term 12:00 - 14:00 | | |
+| Oct. 05 | Mid-term 09:00 - 11:00 | | |
 | Oct. 13 | Map visualization | Project 1 | | |
 | Oct. 20 | Intro to machine learning | | |
 | Oct. 27 | Machine learning | Project 2 |  |
