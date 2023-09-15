@@ -43,7 +43,7 @@ For a given lecture, the reading gives an approximate overview of what is expect
 | Aug. 25 | Course Introduction. Python recap, lists and dictionaries. Testing. | Sundnes: Chap 1,2,3 (and 7) | Sundnes: 2.7, 2.8, 2.9, 2.15, 2.18, 3.3, 3.6, 3.17 | |
 | Sep. 01 | Reading and writing to file. User input. Exceptions. More on command line arguments | Sundnes: Chap 5 | Sundnes: 4.4, 4.9, 4.10, 4.12, 4.13, 4.17, 4.23 | Tarush |
 | Sep. 08 | Numerical Python and plotting | Sundnes: Chap 6 | Sundnes: 5.1, 5.2, 5.3, 5.4, 5.10, 5.12, 5.14, 5.28, 5.46, 5.54 | Esteban |
-| Sep. 15 | Pandas | McKinney: Chap 5 | W3: DataFrames: 2.-22., 73 | Thi Mai Phuong |
+| Sep. 15 | Pandas | McKinney: Chap 5 | [W3: DataFrames: 2.-22., 73](https://www.w3resource.com/python-exercises/pandas/index-dataframe.php) | Thi Mai Phuong |
 | Sep. 22 | File formats and web scraping | KcKinney: Chap 6 |  | |
 | Sep. 29 | Guest lecture Bearingpoint | Yngve Sture and Axel Vislie Mikkelsen | |
 | Oct. 04 | Q & A Mid-term 12:00 - 14:00 | | |
