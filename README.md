@@ -46,7 +46,7 @@ For a given lecture, the reading gives an approximate overview of what is expect
 | Sep. 15 | Pandas | McKinney: Chap 5 | [W3: DataFrames: 2.-22., 73](https://www.w3resource.com/python-exercises/pandas/index-dataframe.php) | Thi Mai Phuong |
 | Sep. 22 | File formats and web scraping | KcKinney: Chap 6 |  | |
 | Sep. 29 | Guest lecture Bearingpoint | Yngve Sture and Axel Vislie Mikkelsen | |
-| Oct. 04 | Q & A Mid-term 12:00 - 14:00 | | |
+| Oct. 04 | Q & A Mid-term 10:00 - 12:00 | | |
 | Oct. 05 | Mid-term 09:00 - 11:00 | | |
 | Oct. 13 | Map visualization | Project 1 | | |
 | Oct. 20 | Group presentations and intro to machine learning | | |
