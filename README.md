@@ -44,7 +44,7 @@ For a given lecture, the reading gives an approximate overview of what is expect
 | Sep. 01 | Reading and writing to file. User input. Exceptions. More on command line arguments | Sundnes: Chap 5 | Sundnes: 4.4, 4.9, 4.10, 4.12, 4.13, 4.17, 4.23 | Tarush |
 | Sep. 08 | Numerical Python and plotting | Sundnes: Chap 6 | Sundnes: 5.1, 5.2, 5.3, 5.4, 5.10, 5.12, 5.14, 5.28, 5.46, 5.54 | Esteban |
 | Sep. 15 | Pandas | McKinney: Chap 5 | [W3: DataFrames: 2.-22., 73](https://www.w3resource.com/python-exercises/pandas/index-dataframe.php) | Thi Mai Phuong |
-| Sep. 22 | File formats and web scraping | KcKinney: Chap 6 | [W3: DataFrames: 1.-8.]([https://www.w3resource.com/python-exercises/pandas/index-dataframe.php](https://www.w3resource.com/python-exercises/web-scraping/index.php))  | Vitalii |
+| Sep. 22 | File formats and web scraping | KcKinney: Chap 6 | [W3: DataFrames: 1.-8.](https://www.w3resource.com/python-exercises/pandas/index-dataframe.php) | Vitalii |
 | Sep. 29 | Guest lecture Bearingpoint | Yngve Sture and Axel Vislie Mikkelsen | |
 | Oct. 04 | Q & A Mid-term 10:00 - 12:00 | | |
 | Oct. 05 | Mid-term 09:00 - 11:00 | | |
