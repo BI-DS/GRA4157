@@ -45,7 +45,7 @@ For a given lecture, the reading gives an approximate overview of what is expect
 | Sep. 08 | Numerical Python and plotting | Sundnes: Chap 6 | Sundnes: 5.1, 5.2, 5.3, 5.4, 5.10, 5.12, 5.14, 5.28, 5.46, 5.54 | Esteban |
 | Sep. 15 | Pandas | McKinney: Chap 5 | [W3: DataFrames: 2.-22., 73](https://www.w3resource.com/python-exercises/pandas/index-dataframe.php) | Thi Mai Phuong |
 | Sep. 22 | Web scraping | KcKinney: Chap 6 | [W3: DataFrames: 1.-8.](https://www.w3resource.com/python-exercises/pandas/index-dataframe.php) + [GitHub Exercies](https://github.com/BI-DS/GRA4157/tree/main/lectures/05-web-scraping/exercises) | Vitalii |
-| Sep. 29 | Guest lecture Bearingpoint by Yngve Sture and Axel Vislie Mikkelsen | Previous lectures | |
+| Sep. 29 | Guest lecture Bearingpoint by Yngve Sture and Axel Vislie Mikkelsen | Last years mid-temr and previous lectures | |
 | Oct. 04 | Q & A Mid-term 10:00 - 12:00 | Previous lectures | |
 | Oct. 05 | Mid-term 09:00 - 11:00 | | |
 | Oct. 13 | Map visualization | Project 1 | | |
