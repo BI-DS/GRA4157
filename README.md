@@ -35,6 +35,32 @@ https://rl.talis.com/3/binorway/lists/B42AA3E8-0EBF-28A8-FD85-D29EA695AF92.html
 - Machine learning workflows with scikit learn
 - Assess machine learning models based on various assumptions on data (outliers etc)
 
+# Guest Lecture Recources
+Below are some extra material from the guest lecture provided by Yngve and Markus.
+
+## BearingPoint's Medium Page:
+https://bearingpoint-analytics-ai.medium.com/
+
+## Emails
+* yngve.sture@bearingpoint.com
+* markus.skagemo@bearingpoint.com
+
+##Software recommendations
+We recommend using one of these or similar tools to keep track of training and comparison of different models
+* MLflow
+* Neptune
+
+## Podcasts:
+* The Analytics Engineering Podcast
+* Practical AI
+
+## Books
+* The Phoenix Project - Essensielt om hvorfor DevOps er viktig, strategibok
+* Competing In The Age of AI - Grunnleggende AI-strategi fra Harvard-professorer
+* Prediction Machines - fra Professorer ved Creative Destruction Lab, Rotman School of Managements StartupHub
+* AI First Company - Hvordan bygge gode AI selskaper fra Ash Fontana, Venture Capitalist
+* Weapons of Math Destruction – Bok som peker på noen av de etiske fallgruvene man risikerer ved bruk av AI
+
 # Preliminary lecture plan
 
 For a given lecture, the reading gives an approximate overview of what is expected to be known after the lecture. I expect you to solve the exercises after the lecture. Each week, we start the lecture with a student presentation of a exercise of choice. Send an email to steven@simula.no (or steven.a.hicks@bi.no) to volunteer for an exercise. For exercises regarding pandas we refer to the w3resource (W3) https://www.w3resource.com/python-exercises/pandas/index-dataframe.php
