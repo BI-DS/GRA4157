@@ -74,9 +74,9 @@ For a given lecture, the reading gives an approximate overview of what is expect
 | Sep. 29 | Guest lecture Bearingpoint by Yngve Sture and Markus Skagemo | Previous lectures | Last years mid-term |
 | Oct. 03 | Q & A Mid-term 08:00 - 10:00 | Previous lectures | |
 | Oct. 05 | Mid-term 09:00 - 11:00 | | |
-| Oct. 13 | Map visualization | Project 1 | | |
+| Oct. 13 | Machine learning part 1 | Project 1 | | |
 | Oct. 20 | Group presentations and intro to machine learning | | |
-| Oct. 27 | Machine learning | Project 2 |  |
+| Oct. 27 | Machine learning part 2 | Project 2 |  |
 | Nov. 03 | Group presentations | | |
 | Nov. 10 | Final lecture | |  |
 
