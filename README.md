@@ -75,7 +75,7 @@ For a given lecture, the reading gives an approximate overview of what is expect
 | Oct. 03 | Q & A Mid-term 08:00 - 10:00 | Previous lectures | |
 | Oct. 05 | Mid-term 09:00 - 11:00 | | |
 | Oct. 13 | Machine learning part 1 | [Project 1](https://github.com/BI-DS/GRA4157/blob/main/lectures/08-project-and-intro-to-ml/Project_1.pdf) | | |
-| Oct. 20 | Group presentations and intro to machine learning | Project 2 | |
+| Oct. 20 | Group presentations and intro to machine learning | [Project 2](https://github.com/BI-DS/GRA4157/blob/main/lectures/09-group-presentations-1/Project_2.pdf) | |
 | Oct. 27 | Machine learning part 2 |  |  |
 | Nov. 03 | Group presentations | | |
 | Nov. 10 | Final lecture | |  |
