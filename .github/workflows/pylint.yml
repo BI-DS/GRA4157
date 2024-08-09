@@ -21,6 +21,7 @@ jobs:
         pip install black
         pip install pytest
     - name: Run pytest
+      run:  |
         pytest lectures/01-python-summary/lecture_scripts/test_*
     - name: Analysing the code with pylint and black
       run: |
