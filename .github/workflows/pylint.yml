@@ -19,6 +19,9 @@ jobs:
         python -m pip install --upgrade pip
         pip install pylint
         pip install black
+        pip install pytest
+    - name: Run pytest
+        pytest lectures/01-python-summary/lecture_scripts/test_*
     - name: Analysing the code with pylint and black
       run: |
         pylint $(git ls-files 'scripts/*.py')
