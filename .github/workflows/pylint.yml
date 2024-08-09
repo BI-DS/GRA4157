@@ -22,7 +22,7 @@ jobs:
         pip install pytest
     - name: Run pytest
       run:  |
-        pytest lectures/01-python-summary/lecture_scripts/test_*
+        pytest lectures/01-python-summary/lecture-scripts/test_*
     - name: Analysing the code with pylint and black
       run: |
         pylint $(git ls-files 'scripts/*.py')
