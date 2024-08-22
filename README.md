@@ -4,11 +4,9 @@ Course material for GRA 4157 - (Big) Data Curation, Pipelines, and Management
 
 # Exams
 
-**04-10-2023 - Mid-term exam (40%)** Technical knowledge, concepts from programming with data.
+**04-10-2024 - Mid-term exam (40%)** Technical knowledge, concepts from programming with data.
 
-**07-11-2023 - The final exam (60%)** is a written repor based on two group presentations (1 - 3 per group) during the semester.
-
-**Final Exam Latex Template** https://www.overleaf.com/read/jrzfwtwfwydy#7277e4
+**07-11-2024 - The final exam (60%)** is a written repor based on two group presentations (1 - 3 per group) during the semester.
 
 # Lectures
 
