@@ -13,7 +13,7 @@ Course material for GRA 4157 - (Big) Data Curation, Pipelines, and Management
 Lectures will be held each Friday 12-13:45 between August 23th and November 8th. You may contact me at vegard@xal.no.
 
 # Syllabus
-https://rl.talis.com/3/binorway/lists/B42AA3E8-0EBF-28A8-FD85-D29EA695AF92.html
+https://rl.talis.com/3/binorway/lists/4D39CD33-F47E-E95D-1F5B-0511BBC9B6BF.html
 
 # Topics
 

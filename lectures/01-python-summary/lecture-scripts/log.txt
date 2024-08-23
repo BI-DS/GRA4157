@@ -1,0 +1,4 @@
+not very important information
+password: 123
+username: bi-student
+location: nydalen
