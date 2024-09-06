@@ -4,7 +4,7 @@ Course material for GRA 4157 - (Big) Data Curation, Pipelines, and Management
 
 # Extra exercise session
 
-Each friday after class (around 13:50 - 14:30) we will do exercies in the same classroom as the lecture. I will choose some of the weekly exercises and show you a suggested solution to the exercises. It will also be possible to ask questions regarding python-installations, software etc. 
+Each friday after class (around 13:50 - 14:30) until the mid-term we will do exercies in the same classroom as the lecture. I will choose some of the weekly exercises and show you a suggested solution to the exercises. It will also be possible to ask questions regarding python-installations, software etc. 
 
 # Exams
 
