@@ -51,7 +51,7 @@ For a given lecture, the reading gives an approximate overview of what is expect
 | Sep. 13 | Pandas | McKinney: Chap 5 | [W3: DataFrames: 2.-22., 73](https://www.w3resource.com/python-exercises/pandas/index-dataframe.php) | Yurou 5.2 <br />Nhung: 5.46|
 | Sep. 20 | Web scraping | KcKinney: Chap 6 | [W3: DataFrames: 1.-8.](https://www.w3resource.com/python-exercises/pandas/index-dataframe.php) + [GitHub Exercies](https://github.com/BI-DS/GRA4157/tree/main/lectures/05-web-scraping/exercises) | |
 | Sep. 27 | Github, Pipelines, Github actions |  | Last years mid-term |
-| Oct. 01 | Q & A Mid-term 08:00 - 10:00 | Previous lectures | |
+| Oct. ? | Q & A Mid-term 08:00 - 10:00 | Previous lectures | |
 | Oct. 04 | Mid-term 09:00 - 11:00 | | |
 | Oct. 11 | Machine learning part 1 | [Project 1](https://github.com/BI-DS/GRA4157/blob/main/lectures/08-project-and-intro-to-ml/Project_1.pdf) | | |
 | Oct. 18 | Group presentations | [Project 2](https://github.com/BI-DS/GRA4157/blob/main/lectures/09-group-presentations-1/Project_2.pdf) | |
