@@ -50,7 +50,7 @@ For a given lecture, the reading gives an approximate overview of what is expect
 | Sep. 06 | Numerical Python and plotting | Sundnes: Chap 6 | Sundnes: 5.1, 5.2, 5.3, 5.4, 5.10, 5.12, 5.14, 5.28, 5.46, 5.54 | Shan Xu: 4.4 <br />Bohdan: 4.23 |
 | Sep. 13 | Pandas | McKinney: Chap 5 | [W3: DataFrames: 2.-22., 73](https://www.w3resource.com/python-exercises/pandas/index-dataframe.php) | Yurou 5.2 <br />Nhung: 5.46|
 | Sep. 20 | Web scraping | KcKinney: Chap 6 | [W3: Pandas Performance: 1.-20. (select 5-10 exercises)](https://www.w3resource.com/python-exercises/pandas/python-pandas-performance-optimization.php) + [GitHub Exercies](https://github.com/BI-DS/GRA4157/tree/main/lectures/05-web-scraping/exercises) | |
-| Sep. 27 | Github, Pipelines, Github actions |  | Last years mid-term |
+| Sep. 27 | Github, Pipelines, Github actions |  |  | Ái Linh, Eirik: 2 |
 | Oct. ? | Q & A Mid-term 08:00 - 10:00 | Previous lectures | |
 | Oct. 04 | Mid-term 09:00 - 11:00 | | |
 | Oct. 11 | Machine learning part 1 | [Project 1](https://github.com/BI-DS/GRA4157/blob/main/lectures/08-project-and-intro-to-ml/Project_1.pdf) | | |
