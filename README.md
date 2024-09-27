@@ -2,7 +2,7 @@
 
 On september 27. we will have several student presentations. After that we will cover GitHub actions. It will also be possible to ask questions regarding the mid-term exam. 
 
-Course material for GRA 4157 - (Big) Data Curation, Pipelines, and Management
+Course material for GRA 4157 - (Big) Data Curation, Pipelines, and Management.
 
 # Extra exercise session
 
