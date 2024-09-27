@@ -34,6 +34,11 @@ jobs:
       run: |
         git config --local user.name "github-actions[bot]"
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
-        git add scripts/datestamp.txt  # Replace with the actual path of the created datestamp file
+        git add datestamp.txt  # Replace with the actual path of the created datestamp file
         git commit -m "Add datestamp file"
         git push origin HEAD:${{ github.ref }}  # Push to the current branch
+    - name: Upload datestamp file
+      uses: actions/upload-artifact@v3
+      with:
+        name: datestamp-file
+        path: scripts/datestamp.txt
