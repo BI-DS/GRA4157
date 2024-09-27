@@ -34,6 +34,7 @@ jobs:
       run: |
         git config --local user.name "github-actions[bot]"
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git pull origin HEAD:${{ github.ref }}
         git add datestamp.txt  # Replace with the actual path of the created datestamp file
         git commit -m "Add datestamp file"
         git push origin HEAD:${{ github.ref }}  # Push to the current branch
