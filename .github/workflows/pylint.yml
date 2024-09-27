@@ -30,4 +30,10 @@ jobs:
     - name: Creating datestamp file
       run: |
         python scripts/create_datestamp.py
-        
+    - name: Push datestamp file
+      run: |
+        git config --local user.name "github-actions[bot]"
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git add scripts/datestamp.txt  # Replace with the actual path of the created datestamp file
+        git commit -m "Add datestamp file"
+        git push origin HEAD:${{ github.ref }}  # Push to the current branch
