@@ -27,4 +27,7 @@ jobs:
       run: |
         pylint $(git ls-files 'scripts/*.py')
         black scripts/*.py
+    - name: Creating datestamp file
+      run: |
+        python scripts/create_datestamp.py
         
