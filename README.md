@@ -1,6 +1,9 @@
 # GRA4157
 
 Q&A session: Will be held on Tuesday October 1st from 8 to 09:45 in room C2-055. 
+Preparation: https://portal.bi.no/en/exams/types-of-exams/school-exams/wiseflow-school-exam/
+
+We can have a look at the lockdown browser technicalities together. 
 
 Course material for GRA 4157 - (Big) Data Curation, Pipelines, and Management.
 
