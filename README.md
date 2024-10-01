@@ -13,7 +13,7 @@ Each friday after class (around 13:50 - 14:30) until the mid-term we will do exe
 
 # Exams
 
-**04-10-2024 - Mid-term exam (40%)** 09:00 - 11:00. Technical knowledge, concepts from programming with data.
+**04-10-2024 - Mid-term exam (40%)** 09:00 - 11:00. Room D3-141. Technical knowledge, concepts from programming with data.
 
 **07-11-2024 - The final exam (60%)** is a written repor based on two group presentations (1 - 3 per group) during the semester.
 
