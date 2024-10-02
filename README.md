@@ -1,5 +1,7 @@
 # GRA4157
 
+As indicated by the lecture plan below, there will be no class on Friday 4. October after the mid-term exam. We will make up for that class with project supervision or an extra class at a later point in time. 
+
 Q&A session: Will be held on Tuesday October 1st from 8 to 09:45 in room C2-055. 
 Preparation: https://portal.bi.no/en/exams/types-of-exams/school-exams/wiseflow-school-exam/
 
