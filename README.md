@@ -1,6 +1,11 @@
 # GRA4157
 
+As indicated by the lecture plan below, there will be no class on Friday 4. October after the mid-term exam. We will make up for that class with project supervision or an extra class at a later point in time. 
+
 Q&A session: Will be held on Tuesday October 1st from 8 to 09:45 in room C2-055. 
+Preparation: https://portal.bi.no/en/exams/types-of-exams/school-exams/wiseflow-school-exam/
+
+We can have a look at the lockdown browser technicalities together. 
 
 Course material for GRA 4157 - (Big) Data Curation, Pipelines, and Management.
 
@@ -10,7 +15,7 @@ Each friday after class (around 13:50 - 14:30) until the mid-term we will do exe
 
 # Exams
 
-**04-10-2024 - Mid-term exam (40%)** 09:00 - 11:00. Technical knowledge, concepts from programming with data.
+**04-10-2024 - Mid-term exam (40%)** 09:00 - 11:00. Room D3-141. Technical knowledge, concepts from programming with data.
 
 **07-11-2024 - The final exam (60%)** is a written repor based on two group presentations (1 - 3 per group) during the semester.
 
@@ -54,7 +59,7 @@ For a given lecture, the reading gives an approximate overview of what is expect
 | Sep. 20 | Web scraping | KcKinney: Chap 6 | [W3: Pandas Performance: 1.-20. (select 5-10 exercises)](https://www.w3resource.com/python-exercises/pandas/python-pandas-performance-optimization.php) + [GitHub Exercies](https://github.com/BI-DS/GRA4157/tree/main/lectures/05-web-scraping/exercises) Note: Some changes were made to the exercises on 24. sept| |
 | Sep. 27 | Github, Pipelines, Github actions |  |  | Selena: 1 <br /> Ái Linh, Eirik: 2 <br /> Ilia: 3 <br /> Narges: 4 <br /> Johannes: 4|
 | Oct. 1 | Q & A Mid-term 08:00 - 09:45 | Previous lectures | Room C2-055 |
-| Oct. 04 | Mid-term 09:00 - 11:00 | | |
+| Oct. 04 | Mid-term 09:00 - 11:00 | | Room D3-141 |
 | Oct. 11 | Machine learning part 1 | [Project 1](https://github.com/BI-DS/GRA4157/blob/main/lectures/08-project-and-intro-to-ml/Project_1.pdf) | | |
 | Oct. 18 | Group presentations | [Project 2](https://github.com/BI-DS/GRA4157/blob/main/lectures/09-group-presentations-1/Project_2.pdf) | |
 | Oct. 25 | Machine learning part 2 |  |  |
