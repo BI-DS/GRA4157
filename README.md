@@ -1,11 +1,13 @@
 # GRA4157
 
-As indicated by the lecture plan below, there will be no class on Friday 4. October after the mid-term exam. We will make up for that class with project supervision or an extra class at a later point in time. 
-
-Q&A session: Will be held on Tuesday October 1st from 8 to 09:45 in room C2-055. 
-Preparation: https://portal.bi.no/en/exams/types-of-exams/school-exams/wiseflow-school-exam/
-
-We can have a look at the lockdown browser technicalities together. 
+Mid-term grading
+The maximum score was 12 points. One point was given per subtask. A total score between 0 and 100% was calculated and grades set on based on the current grading scale:
+A = 92 - 100
+B = 77 - 91
+C = 58 - 76
+D = 46 - 57
+E = 40 - 45
+F = 0 - 39
 
 Course material for GRA 4157 - (Big) Data Curation, Pipelines, and Management.
 
