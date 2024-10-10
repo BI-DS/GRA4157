@@ -2,12 +2,12 @@
 
 Mid-term grading
 The maximum score was 12 points. One point was given per subtask. A total score between 0 and 100% was calculated and grades set on based on the current grading scale:
-A = 92 - 100
-B = 77 - 91
-C = 58 - 76
-D = 46 - 57
-E = 40 - 45
-F = 0 - 39
+- A = 92 - 100
+- B = 77 - 91
+- C = 58 - 76
+- D = 46 - 57
+- E = 40 - 45
+- F = 0 - 39
 
 Course material for GRA 4157 - (Big) Data Curation, Pipelines, and Management.
 
