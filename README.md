@@ -1,6 +1,6 @@
 # GRA4157
 
-Mid-term grading
+## Mid-term grading
 The maximum score was 12 points. One point was given per subtask. A total score between 0 and 100% was calculated and grades set on based on the current grading scale:
 - A = 92 - 100
 - B = 77 - 91
