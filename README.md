@@ -1,7 +1,7 @@
 # GRA4157
 
 ## Mid-term grading
-The maximum score was 12 points. One point was given per subtask. A total score between 0 and 100% was calculated and grades set on based on the current grading scale:
+The maximum score was 12 points. One point was given per subtask. A total score between 0 and 100% was calculated and grades set on based on the grading scale below:
 - A = 92 - 100
 - B = 77 - 91
 - C = 58 - 76
@@ -10,10 +10,6 @@ The maximum score was 12 points. One point was given per subtask. A total score 
 - F = 0 - 39
 
 Course material for GRA 4157 - (Big) Data Curation, Pipelines, and Management.
-
-# Extra exercise session
-
-Each friday after class (around 13:50 - 14:30) until the mid-term we will do exercies in the same classroom as the lecture. I will choose some of the weekly exercises and show you a suggested solution to the exercises. It will also be possible to ask questions regarding python-installations, software etc. 
 
 # Exams
 
