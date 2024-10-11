@@ -185,3 +185,5 @@ print("\nDataFrame with new column:\n", df_with_new_column)
 # 4d)
 top10_mean_duration = compute_top10()
 print("\nTop 10 longest trip duration mean:\n", top10_mean_duration)
+from IPython import embed
+embed()
