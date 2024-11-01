@@ -62,5 +62,5 @@ For a given lecture, the reading gives an approximate overview of what is expect
 | Oct. 18 | Group presentations | [Project 2](https://github.com/BI-DS/GRA4157/blob/main/lectures/09-group-presentations-1/Project_2.pdf) | |
 | Oct. 25 | Machine learning part 2. Scientific writing |  |  |
 | Nov. 01 | Group presentations | | |
-| Nov. 15 | Group presentations and supervision | |  |
+| Nov. 15 | Group presentations (only groups that did not present on Nov. 01) and supervision | |  |
 
