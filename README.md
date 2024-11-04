@@ -1,5 +1,8 @@
 # GRA4157
 
+## Final weeks of class
+There will be no class on Friday 8th of November. On Friday November 15th we will have supervision of groups and presentation for the group that has not yet presented. You may save a spot (15-20 minutes) for individual (group) supervision on November 15th. If you want to request supervision please send me an email and the requested time slot. You can request time slots between 12:15 and 15:00 on November 15th. Please come prepared with questions or discussion points to the supervision session.  
+
 ## Mid-term grading
 The maximum score was 12 points. One point was given per subtask. A total score between 0 and 100% was calculated and grades set on based on the grading scale below:
 - A = 92 - 100
