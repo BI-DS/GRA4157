@@ -1,3 +1,2 @@
 The previous line is deleted and this is the new lineThe previous text is still there, and this line was just appendedNow let's add a new line:
-This is the new lineNow let's add a new line:
 This is a new line

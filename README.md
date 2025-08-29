@@ -26,9 +26,9 @@ https://rl.talis.com/3/binorway/lists/4D39CD33-F47E-E95D-1F5B-0511BBC9B6BF.html
 
 **Part 2**
 
-- Working with the pandas library
-- Reading data from websites
-- Data visualisation
+- Working with the pandas library.
+- Reading data from websites.
+- Data visualisation.
 
 **Part 3**
 
