@@ -46,7 +46,7 @@ For a given lecture, the reading gives an approximate overview of what is expect
 | Aug. 29 | Reading and writing to file. User input. Exceptions. More on command line arguments | Sundnes: Chap 5 | Sundnes: 4.4, 4.9, 4.10, 4.12, 4.13, 4.17, 4.23 |Dohyeop Kim: 2.7, Kai: 2.8, Jakob Sverre: 3.6  |
 | Sep. 05 | Numerical Python and plotting | Sundnes: Chap 6 | Sundnes: 5.1, 5.2, 5.3, 5.4, 5.10, 5.12, 5.14, 5.28, 5.46, 5.54 | Kai: 2.8, Aleksander: 4.9, Zheng: 4.10 |
 | Sep. 12 | Pandas | McKinney: Chap 5 | [W3: DataFrames: 2.-22., 73](https://www.w3resource.com/python-exercises/pandas/index-dataframe.php) | Xiaoqi Zhang: 5.2, Weijie Tang: 5.4 (5.1), Luiz: 5.10 |
-| Sep. 19 | Web scraping | KcKinney: Chap 6 | [W3: Pandas Performance: 1.-20. (select 5-10 exercises)](https://www.w3resource.com/python-exercises/pandas/python-pandas-performance-optimization.php) + [GitHub Exercies](https://github.com/BI-DS/GRA4157/tree/main/lectures/05-web-scraping/exercises) | Thi: W3 ex 2 |
+| Sep. 19 | Web scraping | KcKinney: Chap 6 | [W3: Pandas Performance: 1.-20. (select 5-10 exercises)](https://www.w3resource.com/python-exercises/pandas/python-pandas-performance-optimization.php) + [GitHub Exercies](https://github.com/BI-DS/GRA4157/tree/main/lectures/05-web-scraping/exercises) | Thi: W3 ex 2, Kamil: W3 ex 7 |
 | Sep. 26 | Github, Pipelines, Github actions | [Lecture notes](https://github.com/BI-DS/GRA4157/blob/main/lectures/06-github-pipelines/pipelines.ipynb) |  | Vilijam: 1 and 3. |
 | Sept. 30 | Q & A Mid-term 08:00 - 09:45 | Previous lectures | Room C2-055 |
 | Oct. 03 | Mid-term 09:00 - 11:00 | | Room D3-141 |
