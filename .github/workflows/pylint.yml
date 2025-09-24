@@ -38,7 +38,7 @@ jobs:
         git commit -m "Add datestamp file"
         git push origin HEAD:${{ github.ref }}  # Push to the current branch
     - name: Upload datestamp file
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
         name: datestamp-file
         path: datestamp.txt
