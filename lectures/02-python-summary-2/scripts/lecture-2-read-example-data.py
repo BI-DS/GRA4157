@@ -8,7 +8,7 @@ infile.readline()
 infile.readline()
 infile.readline()
 
-c1  = []
+c1 = []
 c2 = []
 c3 = []
 for line in infile:
@@ -16,5 +16,5 @@ for line in infile:
     c1.append(float(info[0]))
     c2.append(float(info[1]))
     c3.append(float(info[2]))
-    
-print(c1,c2,c3)
+
+print(c1, c2, c3)

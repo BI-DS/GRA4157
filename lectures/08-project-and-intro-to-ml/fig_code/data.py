@@ -24,6 +24,7 @@ def linear_data_sample_big_errs(N=40, rseed=0, m=3, b=-2):
 
 def sample_light_curve(phased=True):
     from astroML.datasets import fetch_LINEAR_sample
+
     data = fetch_LINEAR_sample()
     t, y, dy = data[18525697].T
 
@@ -32,10 +33,11 @@ def sample_light_curve(phased=True):
         t /= P_best
 
     return (t, y, dy)
-    
+
 
 def sample_light_curve_2(phased=True):
     from astroML.datasets import fetch_LINEAR_sample
+
     data = fetch_LINEAR_sample()
     t, y, dy = data[10022663].T
 
@@ -44,4 +46,3 @@ def sample_light_curve_2(phased=True):
         t /= P_best
 
     return (t, y, dy)
-    

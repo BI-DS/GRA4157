@@ -7,7 +7,7 @@
 # -------------------------------------------
 
 # Strings can be created using single or double quotes
-string1 = 'Hello, World!'
+string1 = "Hello, World!"
 string2 = "Python is fun!"
 
 print(string1)
@@ -18,7 +18,7 @@ print(string2)
 # -------------------------------------------
 
 # Joining two or more strings together
-concatenated_string = string1 + ' ' + string2
+concatenated_string = string1 + " " + string2
 print(concatenated_string)
 
 # Repeating a string multiple times
@@ -69,7 +69,7 @@ replaced_string = string1.replace("Hello", "Goodbye")
 print(replaced_string)
 
 # Splitting a string into a list based on a delimiter
-words = string1.split(' ')
+words = string1.split(" ")
 print(words)
 
 # -------------------------------------------
@@ -84,4 +84,3 @@ print(greeting)
 # Using the format method
 formatted_string = "This is a {} example.".format("format method")
 print(formatted_string)
-

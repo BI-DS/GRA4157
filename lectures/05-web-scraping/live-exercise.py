@@ -10,7 +10,7 @@ from collections import defaultdict
 if __name__ == "__main__":
 
     base_url = "http://books.toscrape.com"
-    catalogue_url =" http://books.toscrape.com/catalogue"
+    catalogue_url = " http://books.toscrape.com/catalogue"
 
     next_url = os.path.join(catalogue_url, "page-1.html")
 
@@ -38,7 +38,9 @@ if __name__ == "__main__":
 
             book_in_stock = book_metadata[1].get_text(strip=True) == "In stock"
 
-            book_cover_link = os.path.join(catalogue_url, book.find("img", class_="thumbnail")["src"])
+            book_cover_link = os.path.join(
+                catalogue_url, book.find("img", class_="thumbnail")["src"]
+            )
 
             book_dict["Book Title"].append(book_title)
             book_dict["Book Price"].append(book_price)

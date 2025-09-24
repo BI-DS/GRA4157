@@ -91,4 +91,3 @@ print(f"Sorted list: {int_list}")
 # Counting occurrences of an element
 count_of_5 = int_list.count(5)
 print(f"Occurrences of 5 in the list: {count_of_5}")
-

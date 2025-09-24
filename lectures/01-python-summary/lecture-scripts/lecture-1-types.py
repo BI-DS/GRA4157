@@ -67,4 +67,3 @@ print(f"Type of {bool_false}: {type(bool_false)}")
 # Represents the absence of a value or a null value
 none_data = None
 print(f"Type of {none_data}: {type(none_data)}")
-

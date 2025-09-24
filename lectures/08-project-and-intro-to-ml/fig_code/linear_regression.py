@@ -26,12 +26,12 @@ def plot_linear_regression():
     ax.scatter(x, y)
     ax.plot(x_new, y_new)
 
-    ax.set_xlabel('x')
-    ax.set_ylabel('y')
+    ax.set_xlabel("x")
+    ax.set_ylabel("y")
 
-    ax.axis('tight')
+    ax.axis("tight")
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     plot_linear_regression()
     plt.show()

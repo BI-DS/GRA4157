@@ -1,6 +1,4 @@
-
-
-def test_w(x,y):
+def test_w(x, y):
     # We assume x and y are coordinates
     # Now can we find out inside this function whether they would make a w-plot?
 

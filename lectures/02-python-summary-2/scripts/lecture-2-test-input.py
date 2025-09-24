@@ -1,3 +1,3 @@
-number = input('Write a number:')
+number = input("Write a number:")
 
-print(f'Your number is {number}')
+print(f"Your number is {number}")

@@ -11,11 +11,7 @@ empty_dict = {}
 print(f"Empty dictionary: {empty_dict}")
 
 # Dictionary with key-value pairs
-person = {
-    "name": "Alice",
-    "age": 30,
-    "city": "Wonderland"
-}
+person = {"name": "Alice", "age": 30, "city": "Wonderland"}
 print(f"Person dictionary: {person}")
 
 # Dictionary with mixed data types
@@ -23,7 +19,7 @@ mixed_dict = {
     "name": "Bob",
     42: "The Answer",
     "is_student": True,
-    "courses": ["Math", "Physics"]
+    "courses": ["Math", "Physics"],
 }
 print(f"Mixed data type dictionary: {mixed_dict}")
 
@@ -87,4 +83,3 @@ print(f"Person dictionary after updating: {person}")
 # Clearing all key-value pairs
 person.clear()
 print(f"Person dictionary after clearing: {person}")
-

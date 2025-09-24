@@ -32,7 +32,7 @@ print(f"You live in {city}, {country}.")
 # Asking the user to confirm a choice
 confirmation = input("Is the information correct? (yes/no) ")
 
-if confirmation.lower() == 'yes':
+if confirmation.lower() == "yes":
     print("Thank you for confirming.")
 else:
     print("Please double-check your information.")
