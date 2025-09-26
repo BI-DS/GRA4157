@@ -5,7 +5,7 @@ Course material for GRA 4157 - (Big) Data Curation, Pipelines, and Management.
 
 **03.10.2025 - Mid-term exam (40%)** 09:00 - 11:00. Technical knowledge, concepts from programming with data.
 
-**07.11.2025 - The final exam (60%)** is a written repor based on two group presentations (1 - 3 per group) during the semester. Deadline	09.12.2025 12:00
+**07.11.2025 - The final exam (60%)** is a written report based on two group presentations (1 - 3 per group) during the semester. Deadline	09.12.2025 12:00
 
 # Lectures
 
@@ -47,7 +47,7 @@ For a given lecture, the reading gives an approximate overview of what is expect
 | Sep. 05 | Numerical Python and plotting | Sundnes: Chap 6 | Sundnes: 5.1, 5.2, 5.3, 5.4, 5.10, 5.12, 5.14, 5.28, 5.46, 5.54 | Kai: 2.8, Aleksander: 4.9, Zheng: 4.10 |
 | Sep. 12 | Pandas | McKinney: Chap 5 | [W3: DataFrames: 2.-22., 73](https://www.w3resource.com/python-exercises/pandas/index-dataframe.php) | Xiaoqi Zhang: 5.2, Weijie Tang: 5.4 (5.1), Luiz: 5.10 |
 | Sep. 19 | Web scraping | KcKinney: Chap 6 | [W3: Pandas Performance: 1.-20. (select 5-10 exercises)](https://www.w3resource.com/python-exercises/pandas/python-pandas-performance-optimization.php) + [GitHub Exercies](https://github.com/BI-DS/GRA4157/tree/main/lectures/05-web-scraping/exercises) | Thi: W3 ex 2, Kamil: W3 ex 7 |
-| Sep. 26 | Github, Pipelines, Github actions | [Lecture notes](https://github.com/BI-DS/GRA4157/blob/main/lectures/06-github-pipelines/pipelines.ipynb) |  | Vilijam: 1 and 3. |
+| Sep. 26 | Github, Pipelines, Github actions | [Lecture notes](https://github.com/BI-DS/GRA4157/blob/main/lectures/06-github-pipelines/pipelines.ipynb) |  | Vilijam: 1 and 3. Taisia: 2 |
 | Oct. 01 | Q & A Mid-term 16:00 - 17:45 | Previous lectures | Room C2-095 |
 | Oct. 03 | Mid-term 09:00 - 11:00 | | Room D3-141 |
 | Oct. 10 | Machine learning part 1 | [Project 1](https://github.com/BI-DS/GRA4157/blob/main/lectures/08-project-and-intro-to-ml/Project_1.pdf) | | |
