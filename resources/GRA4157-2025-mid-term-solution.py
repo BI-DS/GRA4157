@@ -103,7 +103,7 @@ def compute_efficiency_periods(data):
     starts = runs[runs]           # This is only the recordings of a start of a new consecutive period.
     len_of_runs = pd.Series(starts.index[1:] - starts.index[:-1], index = starts.index[:-1]) # length of each period. 
     below_eff_30_sec = (len_of_runs >= pd.Timedelta(seconds=30)) & below[len_of_runs.index] # length over 30 and below is true
-    ineff_runs = len_of_runs[below_eff_30_sec]
+    ineff_runs = len_of_runs[below_eff_30_sec] # start time and duration is ok
 
     return ineff_runs
 
@@ -224,3 +224,4 @@ if __name__ == "__main__":
     valid_data = {key: data_list[key] for key in keys}
     df_pop = clean_population_dataframe(valid_data)
     analyze_population(df_pop)
+    embed()
