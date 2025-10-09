@@ -1,6 +1,9 @@
 # GRA4157
 Course material for GRA 4157 - (Big) Data Curation, Pipelines, and Management.
 
+Check out this before the MID-term: 
+https://wiseflow.zendesk.com/hc/en-gb/articles/4405985946898-WISEflow-Lockdown-Browser-Installation-and-Testing
+
 # Exams
 
 **03.10.2025 - Mid-term exam (40%)** 09:00 - 11:00. Technical knowledge, concepts from programming with data.
