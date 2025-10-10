@@ -1,4 +1,7 @@
 # GRA4157
+
+Please answer this survey to make the course better: https://nettskjema.no/a/556126
+
 Course material for GRA 4157 - (Big) Data Curation, Pipelines, and Management.
 
 Check out this before the MID-term: 
