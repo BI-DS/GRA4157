@@ -61,5 +61,5 @@ For a given lecture, the reading gives an approximate overview of what is expect
 | Oct. 24 | Group presentations and Scientific writing |  |  |
 | Oct. 31 | Machine Learning part 2: Learning and evaluation | | |
 | Nov. 7 | Group presentations | | 12:00: Leutrim and Shanza, 12:13: Tasia and Paul, 12:25: Knut, Kai and Alexander, 12:40: Jo Sverre |
-| Nov. 14 | Group presentations and supervision | | 12:00: Dohyeop Kim |
+| Nov. 14 | Group presentations and supervision | | 12:00: Dohyeop Kim, 12:12: Vilijam|
 
