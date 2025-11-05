@@ -156,8 +156,11 @@ def parse_population_table(html):
     for row in rows[2:]:
         cells = [td.get_text(strip=True) for td in row.find_all("td")]
         cells = [convert_value(cell) for cell in cells]
-        name = cells[0]
-        data_list[name] = cells[1:]
+        try:
+            name = [td.get_text(strip=True) for td in row.find_all("th")][0]
+        except:
+            name = cells[0]
+        data_list[name] = cells[:]
     return data_list
 
 
